@@ -1,0 +1,11 @@
+.ItemAddForm {
+    margin-top: 10px;
+}
+
+.ItemAddForm input {
+    margin-right: 3px;
+}
+
+.ItemAddForm button {
+    white-space: nowrap;
+}
